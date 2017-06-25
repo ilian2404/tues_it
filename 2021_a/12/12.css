@@ -1,0 +1,7 @@
+.texta{    
+    float: left;
+    margin: 5px;
+    padding: 13px;
+    max-width: 295px;
+    height: 310px;
+    border: 1px solid black; }
